@@ -1,0 +1,18 @@
+/* img {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  rotate: 45;
+}
+
+body {
+  background-color: green;
+} */
+
+.pokemon {
+  height: 300px;
+  width: 200px;
+  background-color: aquamarine;
+  border-radius: 10px;
+  padding: 10px;
+}
